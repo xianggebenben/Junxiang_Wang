@@ -1,4 +1,4 @@
-Research Assistant 
+Research Assistant (2017-current)
 
 Department of Information Sciences and Technology
 
@@ -10,7 +10,7 @@ Email: jwang40@gmu.edu
 
 Junxiang Wang is a third-year Ph.D. student at the department of Information Sciences and Technology from George Mason University, supervised by Professor Liang Zhao. His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his bachelor degree at the department of Computer Science and Technology from East China Normal University, Shanghai, China in 2012.
 
-## Publication
+## Publications
 ### 2019
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. Deep Learning Alternating Direction Method of Multipliers. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019.
 ### 2018
