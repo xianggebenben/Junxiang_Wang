@@ -1,8 +1,10 @@
 # Junxiang Wang
-
 Research Assistant 
+
 Department of Information Sciences and Technology
+
 George Mason University
+
 Email: jwang40@gmu.edu
 
 ## Biography
@@ -23,7 +25,7 @@ Junxiang Wang, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection b
 
 Liang Zhao, Junxiang Wang, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.
 
-Liang Zhao, Junxiang Wang, Feng Chen, Chang-Tien Lu, Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.
+Liang Zhao, Junxiang Wang, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.
 ### Preprints
 Junxiang Wang, Fuxun Yu, Xiang Chen, and Liang Zhao. The Global Convergence of the Alternating Minimization Algorithm for Deep Neural Network Problems.
 
