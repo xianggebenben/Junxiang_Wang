@@ -40,7 +40,7 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 
 Weiming Yu, Yan Yan, Qing Liu, **Junxiang Wang** and Zhenran Jiang. Predicting drug–target interaction networks of human diseases based on multiple feature information. Pharmacogenomics 14 (14), 1701-1707, 20, 2013. [link](https://www.futuremedicine.com/doi/abs/10.2217/pgs.13.162)
 
-Zhenran Jiang, Ran Tao, Lei Du, Weiming Yu and Junxiang Wang. Using Network-Based Approaches to Predict Ligands of Orphan Nuclear Receptors. Current Bioinformatics 7 (4), 411-414, 2012. [link](https://www.ingentaconnect.com/content/ben/cbio/2012/00000007/00000004/art00008)
+Zhenran Jiang, Ran Tao, Lei Du, Weiming Yu and **Junxiang Wang**. Using Network-Based Approaches to Predict Ligands of Orphan Nuclear Receptors. Current Bioinformatics 7 (4), 411-414, 2012. [link](https://www.ingentaconnect.com/content/ben/cbio/2012/00000007/00000004/art00008)
 
 Ran Tao, Zhenran Jiang, Weiming Yu and **Junxiang Wang**. Predicting Coupling Specificity of GPCRs Based on the Optimization of the Coupling Regions. Combinatorial chemistry & high throughput screening 15 (9), 770-774, 2012. [link](https://www.ingentaconnect.com/content/ben/cchts/2012/00000015/00000009/art00009)
 
