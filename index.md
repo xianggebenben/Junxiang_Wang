@@ -10,7 +10,7 @@ Email: jwang40@gmu.edu
 
 ## Biography
 
-Junxiang Wang is a Ph.D. student at the department of Information Sciences and Technology from George Mason University since 2017, supervised by Professor Liang Zhao. His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his bachelor degree at the department of Computer Science and Technology from East China Normal University, Shanghai, China in 2012.
+Junxiang Wang is a Ph.D. student at the department of Information Sciences and Technology from George Mason University since 2017, supervised by Professor [Liang Zhao](http://mason.gmu.edu/~lzhao9/). His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his bachelor degree at the department of Computer Science and Technology from East China Normal University, Shanghai, China in 2012.
 
 ## Publications
 ### Preprints
