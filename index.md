@@ -37,9 +37,13 @@ Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogen
 Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.  [link](https://ieeexplore.ieee.org/document/8011465)
 ### Before 2014
 **Junxiang Wang**, Weiming Yu, Zhibin Chen, Hengda Li, Zhenran Jiang. Predicting Drug-Target Interactions of Nuclear Receptors Based on Molecular Descriptors Information. Letters in Drug Design & Discovery 10 (10), 989-994, 2013. [link](https://www.ingentaconnect.com/content/ben/lddd/2013/00000010/00000010/art00012)
+
 Weiming Yu, Yan Yan, Qing Liu, **Junxiang Wang** and Zhenran Jiang. Predicting drug–target interaction networks of human diseases based on multiple feature information. Pharmacogenomics 14 (14), 1701-1707, 20, 2013. [link] (https://www.futuremedicine.com/doi/abs/10.2217/pgs.13.162)
+
 Zhenran Jiang, Ran Tao, Lei Du, Weiming Yu and Junxiang Wang. Using Network-Based Approaches to Predict Ligands of Orphan Nuclear Receptors. Current Bioinformatics 7 (4), 411-414, 2012. [link] (https://www.ingentaconnect.com/content/ben/cbio/2012/00000007/00000004/art00008)
+
 Ran Tao, Zhenran Jiang, Weiming Yu and **Junxiang Wang**. Predicting Coupling Specificity of GPCRs Based on the Optimization of the Coupling Regions. Combinatorial chemistry & high throughput screening 15 (9), 770-774, 2012. [link](https://www.ingentaconnect.com/content/ben/cchts/2012/00000015/00000009/art00009)
+
 Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selection technique for drug-target interaction networks prediction. Current medicinal chemistry 18 (36), 5687-5693, 2011. [link] (https://www.ingentaconnect.com/content/ben/cmc/2011/00000018/00000036/art00014)
 
 
