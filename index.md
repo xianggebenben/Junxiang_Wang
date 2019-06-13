@@ -8,6 +8,11 @@ Email: jwang40@gmu.edu
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate) [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
+## News
+I become an indepdent reviewer for the European Journal of Operational Research.
+A paper has been accepted by KDD 2019. The code will come soon.
+
+
 ## Biography
 
 Junxiang Wang is a Ph.D. student at the department of Information Sciences and Technology from George Mason University since 2017, supervised by Professor [Liang Zhao](http://mason.gmu.edu/~lzhao9/). His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his bachelor degree at the department of Computer Science and Technology from East China Normal University, Shanghai, China in 2012.
