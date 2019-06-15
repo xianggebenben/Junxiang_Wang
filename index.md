@@ -11,7 +11,7 @@ Email: jwang40@gmu.edu
 ## News
 I am invitied as an independent reviewer for the European Journal of Operational Research.
 
-A paper has been accepted by KDD 2019. The code will come soon.
+One paper has been accepted by KDD 2019. The code will come soon.
 
 
 ## Biography
