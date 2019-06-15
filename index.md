@@ -6,10 +6,10 @@ George Mason University
 
 Email: jwang40@gmu.edu
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate) [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
-I become an indepdent reviewer for the European Journal of Operational Research.
+I am invitied as an independent reviewer for the European Journal of Operational Research.
 
 A paper has been accepted by KDD 2019. The code will come soon.
 
