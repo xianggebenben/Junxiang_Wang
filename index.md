@@ -30,7 +30,7 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 
 **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  [paper](https://arxiv.org/abs/1903.01054)
 ### 2019
-**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019. [paper](https://www.researchgate.net/publication/332739083_ADMM_for_Efficient_Deep_Learning_with_Global_Convergence) [supplementary material](https://arxiv.org/abs/1905.13611) [code](https://github.com/xianggebenben/dlADMM) [video](https://www.youtube.com/watch?v=J3pCqVhud_M)
+**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019. [paper](https://www.researchgate.net/publication/332739083_ADMM_for_Efficient_Deep_Learning_with_Global_Convergence)    [supplementary material](https://arxiv.org/abs/1905.13611)    [code](https://github.com/xianggebenben/dlADMM)    [video](https://www.youtube.com/watch?v=J3pCqVhud_M)
 ### 2018
 **Junxiang Wang**, Liang Zhao, and Yanfang Ye. Semi-supervised Multi-instance Interpretable Models for Flu Shot Adverse Event Detection. 2018 IEEE International Conference on Big Data (BigData 2018) (acceptance rate: 18.9%), Seattle, USA, Dec 2018.  [paper](https://ieeexplore.ieee.org/document/8622434)
 
