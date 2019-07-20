@@ -22,10 +22,10 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 ### Preprints
 **Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
-**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. The Global Convergence of the Alternating Minimization Algorithm for Deep Neural Network Problems. 
+**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. The Global Convergence of the Alternating Minimization Algorithm for Deep Neural Network Problems.  
 [paper](https://arxiv.org/abs/1811.04187)
 
-**Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. 
+**Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers.  
 [paper](https://arxiv.org/abs/1902.10882)
 
 **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems.  
