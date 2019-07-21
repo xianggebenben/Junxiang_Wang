@@ -42,7 +42,7 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 [paper](https://ieeexplore.ieee.org/document/8622434) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/BigData2018)
 
 **Junxiang Wang**, Yuyang Gao, Andreas Zufle, Jingyuan Yang, and Liang Zhao. Incomplete Label Uncertainty Estimation for Petition Victory Prediction with Dynamic Features. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2018), regular paper (acceptance rate: 8.9%), Singapore, Dec 2018.  
-[paper](https://ieeexplore.ieee.org/document/8594878) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/ICDM2018)
+[paper](https://ieeexplore.ieee.org/document/8594878) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/ICDM2018) [data](http://mason.gmu.edu/~lzhao9/materials/data/petition/index.html) 
 ### 2017
 **Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection.27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018.  
 [paper](https://dl.acm.org/citation.cfm?id=3186051) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/WWW2018)
