@@ -39,13 +39,13 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 
 ### 2018
 **Junxiang Wang**, Liang Zhao, and Yanfang Ye. Semi-supervised Multi-instance Interpretable Models for Flu Shot Adverse Event Detection. 2018 IEEE International Conference on Big Data (BigData 2018) (acceptance rate: 18.9%), Seattle, USA, Dec 2018.  
-[paper](https://ieeexplore.ieee.org/document/8622434) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/BigData2018) [slides] ()
+[paper](https://ieeexplore.ieee.org/document/8622434) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/supplementary_material/BigData2018) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/BigData2018/Semi-supervised%20Multi-instance%20Interpretable%20Models%20for%20Flu%20Shot%20Adverse%20Event%20Detection.pdf)
 
 **Junxiang Wang**, Yuyang Gao, Andreas Zufle, Jingyuan Yang, and Liang Zhao. Incomplete Label Uncertainty Estimation for Petition Victory Prediction with Dynamic Features. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2018), regular paper (acceptance rate: 8.9%), Singapore, Dec 2018.  
-[paper](https://ieeexplore.ieee.org/document/8594878) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/ICDM2018) [data](http://mason.gmu.edu/~lzhao9/materials/data/petition/index.html)  [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/code/ICDM2018/Incomplete%20Label%20Uncertainty%20Estimation%20for%20Petition%20Victory%20Prediction%20with%20Dynamic%20Features.pdf) [poster] ()
+[paper](https://ieeexplore.ieee.org/document/8594878) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/supplementary_material/ICDM2018) [data](http://mason.gmu.edu/~lzhao9/materials/data/petition/index.html)  [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2018/Incomplete%20Label%20Uncertainty%20Estimation%20for%20Petition%20Victory%20Prediction%20with%20Dynamic%20Features.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2018/poster.pdf)
 ### 2017
 **Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection.27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018.  
-[paper](https://dl.acm.org/citation.cfm?id=3186051) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/code/WWW2018)
+[paper](https://dl.acm.org/citation.cfm?id=3186051) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/supplementary_material/WWW2018) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2018/Multi-instance%20Domain%20Adaptation%20for%20Vaccine%20Adverse%20Event%20Detection_modified.pdf)
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection by integrating Twitter data and VAERS. Journal of Biomedical Semantics, (impact factor: 1.845), 2018.  
 [paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y)
