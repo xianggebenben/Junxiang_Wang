@@ -36,6 +36,7 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 ### 2019
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019.  
 [paper](https://dl.acm.org/citation.cfm?id=3330936)    [material](https://arxiv.org/abs/1905.13611)    [code](https://github.com/xianggebenben/dlADMM)    [video](https://www.youtube.com/watch?v=J3pCqVhud_M) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/ADMM%20for%20Efficient%20Deep%20Learning%20with%20Global%20Convergence.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/poster.pdf) [summary](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/Wang_poster%23104_group%236_kdd19blitz.pdf)
+[Chinese media coverage](https://www.jiqizhixin.com/articles/2019-08-29-9)
 
 ### 2018
 **Junxiang Wang**, Liang Zhao, and Yanfang Ye. Semi-supervised Multi-instance Interpretable Models for Flu Shot Adverse Event Detection. 2018 IEEE International Conference on Big Data (BigData 2018) (acceptance rate: 18.9%), Seattle, USA, Dec 2018.  
