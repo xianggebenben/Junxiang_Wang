@@ -20,7 +20,6 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 
 ## Publications
 ### Preprints
-**Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. The Global Convergence of the Alternating Minimization Algorithm for Deep Neural Network Problems.  
 [paper](https://arxiv.org/abs/1811.04187)
