@@ -34,7 +34,7 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 [paper](https://arxiv.org/abs/1705.03412)
 
 ### 2019
-**Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019). [paper](https://arxiv.org/abs/1903.01054)
+**Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019). co-located with NeurIPS 2019. [paper](https://arxiv.org/abs/1903.01054)
 
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019.  
 [paper](https://dl.acm.org/citation.cfm?id=3330936)    [material](https://arxiv.org/abs/1905.13611)    [code](https://github.com/xianggebenben/dlADMM)    [video](https://www.youtube.com/watch?v=J3pCqVhud_M) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/ADMM%20for%20Efficient%20Deep%20Learning%20with%20Global%20Convergence.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/poster.pdf) [summary](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/Wang_poster%23104_group%236_kdd19blitz.pdf)
