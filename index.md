@@ -9,6 +9,8 @@ Email: jwang40@gmu.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+I am looking for a research internship in Summer 2020. Please reach me out if you are interested in my background.
+
 I am invited as an independent reviewer for the European Journal of Operational Research(a top journal in operation research and optimization).
 
 One paper has been accepted by KDD 2019. The code will be available soon.
