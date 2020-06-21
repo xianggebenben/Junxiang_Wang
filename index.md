@@ -1,8 +1,8 @@
 Research Assistant (2017-current)
 
-Department of Information Sciences and Technology
+Department of Computer Science
 
-George Mason University
+Emory University
 
 Email: jwang40@gmu.edu
 
@@ -16,7 +16,7 @@ One paper has been accepted by KDD 2019. The code will be available soon.
 
 ## Biography
 
-Junxiang Wang is a Ph.D. student at the department of Information Sciences and Technology from George Mason University since 2017, supervised by Professor [Liang Zhao](http://mason.gmu.edu/~lzhao9/). His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his bachelor degree at the department of Computer Science and Technology from East China Normal University, Shanghai, China in 2012.
+Junxiang Wang is a Ph.D. student at the department of Information Sciences and Technology from Emory University, supervised by Professor [Liang Zhao](http://mason.gmu.edu/~lzhao9/). His research interests are data mining, machine learning and nonconvex optimization. Before that, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
 
 ## Publications
 ### Preprints
