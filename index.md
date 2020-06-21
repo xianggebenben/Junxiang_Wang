@@ -20,6 +20,10 @@ Junxiang Wang is a Ph.D. student at the department of Information Sciences and T
 
 ## Publications
 ### Preprints
+**Junxiang Wang**, Zheng Chai,Yue Cheng,Liang Zhao.Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training.
+
+Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning.
+
 **Junxiang Wang**, Zheng Chai, Benjamin Carver, Yue Cheng and Liang Zhao. pdADMM: a Distributed Framework to Train Deep Neural Networks. 
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
