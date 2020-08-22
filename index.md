@@ -26,8 +26,8 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
-**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. The Global Convergence of the Alternating Minimization Algorithm for Deep Neural Network Problems.  
-[paper](https://arxiv.org/abs/1811.04187)
+**Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization.  
+[paper](https://www.researchgate.net/publication/328858709_Accelerated_Gradient-free_Neural_Network_Training_by_Multi-convex_Alternating_Optimization)
 
 **Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers.  
 [paper](https://arxiv.org/abs/1902.10882)
