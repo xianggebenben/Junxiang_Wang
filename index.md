@@ -4,7 +4,7 @@ Department of Computer Science
 
 Emory University
 
-Email: jwang40@gmu.edu
+Email: jwan936@emory.edu
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
