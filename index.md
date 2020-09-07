@@ -56,13 +56,13 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 **Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
 [paper](https://arxiv.org/abs/1902.10882)
 
-**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems.  
+**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems.  Preprint.
 [paper](https://arxiv.org/abs/1705.03412) [code](https://github.com/xianggebenben/neADMM)
 
 Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. Preprint.
 
 ### Interpretability
-**Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
+**Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks. Preprint.
 
 
 ### Bioinformatics
