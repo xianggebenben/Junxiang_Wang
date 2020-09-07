@@ -33,7 +33,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 [paper](https://arxiv.org/abs/1902.10882)
 
 **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems.  
-[paper](https://arxiv.org/abs/1705.03412)
+[paper](https://arxiv.org/abs/1705.03412) [code](https://github.com/xianggebenben/neADMM)
 ### 2020
 **Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Dec 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM)
 
