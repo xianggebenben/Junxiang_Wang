@@ -33,7 +33,7 @@ Junxiang Wang is a Ph.D. student from Emory University, supervised by Professor 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection by integrating Twitter data and VAERS. Journal of Biomedical Semantics, (impact factor: 1.845), 2018.  
 [paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y)
 
-Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16556)
+Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/AAAI2018/aaai_main.pdf)
 
 Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.  
 [paper](https://ieeexplore.ieee.org/document/8011465)
