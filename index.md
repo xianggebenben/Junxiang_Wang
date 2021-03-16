@@ -46,6 +46,8 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 
 **Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
 
+**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Journal of Results in Control and Optimization, 2021, to appear. [paper](https://arxiv.org/abs/1705.03412) [code](https://github.com/xianggebenben/neADMM)
+
 **Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
 **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019), co-located with NeurIPS 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/multi_block_ADMM_on_isotonic_regression.pdf)   [code](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/code.rar)  [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/poster.pptx)
@@ -55,9 +57,6 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 
 **Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
 [paper](https://arxiv.org/abs/1902.10882)
-
-**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of ADMM for Nonlinear Equality Constrained Problems.  Preprint.
-[paper](https://arxiv.org/abs/1705.03412) [code](https://github.com/xianggebenben/neADMM)
 
 Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. Preprint.
 
