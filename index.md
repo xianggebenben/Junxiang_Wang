@@ -8,6 +8,9 @@ Email: jwan936@emory.edu
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
+## News
+2021/3: One paper is accepted by the Results in Control and Optimization.
+
 
 ## Biography
 
@@ -41,7 +44,7 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 
 **Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
 
-**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Results in Control and Optimization, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
+**Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  , 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
 
 **Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
