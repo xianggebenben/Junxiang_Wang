@@ -53,7 +53,7 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 **Junxiang Wang** and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. Preprint.
 [paper](https://www.researchgate.net/publication/328858709_Accelerated_Gradient-free_Neural_Network_Training_by_Multi-convex_Alternating_Optimization)
 
-**Junxiang Wang**, Liang Zhao and Lingfei Wu. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
+**Junxiang Wang** and Liang Zhao. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
 [paper](https://arxiv.org/abs/1902.10882)
 
 Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. Preprint.
