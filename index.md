@@ -11,6 +11,8 @@ Email: jwan936@emory.edu
 ## News
 2021/3: One paper is accepted by the Results in Control and Optimization.
 
+2021/8: I am invited to give a talk at the [MOPTA](https://coral.ise.lehigh.edu/~mopta/) 2021 conference. See you at Lehigh University!
+
 
 ## Biography
 
