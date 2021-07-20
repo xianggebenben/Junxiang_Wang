@@ -52,8 +52,8 @@ Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. 
 
 **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019), co-located with NeurIPS 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/multi_block_ADMM_on_isotonic_regression.pdf)   [code](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/code.rar)  [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/poster.pptx)
 
-**Junxiang Wang** and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. Preprint.
-[paper](https://www.researchgate.net/publication/328858709_Accelerated_Gradient-free_Neural_Network_Training_by_Multi-convex_Alternating_Optimization)
+**Junxiang Wang** Hongyi Li, Yongchao Wang, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
+[paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
 
 **Junxiang Wang** and Liang Zhao. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
 [paper](https://arxiv.org/abs/1902.10882)
