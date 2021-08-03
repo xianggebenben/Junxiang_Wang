@@ -79,5 +79,5 @@ Ran Tao, Zhenran Jiang, Weiming Yu and **Junxiang Wang**. Predicting Coupling Sp
 
 Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selection technique for drug-target interaction networks prediction. Current medicinal chemistry 18 (36), 5687-5693, 2011.  
 [paper](https://www.ingentaconnect.com/content/ben/cmc/2011/00000018/00000036/art00014)
-### Invited Talk
+## Invited Talk
 Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. MOPTA 2021. Lehigh University. PA. August 2021. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/MOPTA%202021/MOPTA_talk.pdf)
