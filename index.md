@@ -9,9 +9,11 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
-2021/3: One paper is accepted by the Results in Control and Optimization.
 
 2021/8: I am invited to give a talk at the [MOPTA](https://coral.ise.lehigh.edu/~mopta/) 2021 conference. See you at Lehigh University!
+
+2021/3: One paper is accepted by the Results in Control and Optimization.
+
 
 
 ## Biography
