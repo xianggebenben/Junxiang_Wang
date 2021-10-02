@@ -75,6 +75,8 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 ### Priprint Paper
 
+Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks. Preprint.
+
 **Junxiang Wang** Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. A short version has been accepted in ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
 [paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
 
