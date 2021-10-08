@@ -97,3 +97,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 ## Invited Talk
 Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. MOPTA 2021. Lehigh University. PA. August 2021. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/MOPTA%202021/MOPTA_talk.pdf)
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u4duplPyG9Rla7JAm-t4MIXH1o8lSWUwgrNHMyfETQI&cl=ffffff&w=a"></script>
