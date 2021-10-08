@@ -100,4 +100,4 @@ Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. MOP
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=u4duplPyG9Rla7JAm-t4MIXH1o8lSWUwgrNHMyfETQI&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bkfk" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=u4duplPyG9Rla7JAm-t4MIXH1o8lSWUwgrNHMyfETQI&cl=ffffff"></a>
