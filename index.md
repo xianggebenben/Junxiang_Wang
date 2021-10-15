@@ -74,6 +74,7 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 
 ### Priprint Paper
+Chen Ling, Junji Jiang, Junxiang Wang and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
 
 Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks. Preprint.
 
