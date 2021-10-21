@@ -69,6 +69,8 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 ### Workshop Paper
 
+Hongyi Li, **Junxiang Wang**, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021).
+
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
 **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019), co-located with NeurIPS 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/multi_block_ADMM_on_isotonic_regression.pdf)   [code](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/code.rar)  [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/poster.pptx)
@@ -76,7 +78,7 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 
 ### Priprint Paper
-Chen Ling, Junji Jiang, Junxiang Wang and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
+Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
 
 Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks. Preprint.
 
@@ -89,9 +91,6 @@ Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan
 
 **Junxiang Wang** and Liang Zhao. Multi-convex Inequality-constrained Alternating Direction Method of Multipliers. Preprint.
 [paper](https://arxiv.org/abs/1902.10882)
-
-
-Hongyi Li, **Junxiang Wang**, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks.Preprint.
 
 Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. Preprint.
 
