@@ -10,7 +10,7 @@ Email: jwan936@emory.edu
 
 ## News
 
-2021/10: I serve as an independent reviewer for the Journal Numerical Algorithms (JCR Q1).
+2021/10: I serve as an independent reviewer for the Journal Numerical Algorithms (SJR Q1).
 
 2021/8: I am invited to give a talk at the [MOPTA](https://coral.ise.lehigh.edu/~mopta/) 2021 conference. See you at Lehigh University!
 
