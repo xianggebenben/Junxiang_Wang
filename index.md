@@ -71,7 +71,7 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 ### Workshop Paper
 
-Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021). [paper]()
+Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021). [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202021/ADMM_GNN_training.pdf)
 
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
