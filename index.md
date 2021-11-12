@@ -27,7 +27,7 @@ Junxiang Wang is a Ph.D. student from Emory University, supervised by Professor 
 ## Publications
 
 ### Conference Paper
-**Junxiang Wang**, Zheng Chai,Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
+**Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
 
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019.  
 [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/dlADMM_main.pdf)    [material](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/dlADMM_supplementary.pdf)    [code](https://github.com/xianggebenben/dlADMM)    [video](https://www.youtube.com/watch?v=J3pCqVhud_M) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/ADMM%20for%20Efficient%20Deep%20Learning%20with%20Global%20Convergence.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/poster.pdf) [summary](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2019/Wang_poster%23104_group%236_kdd19blitz.pdf)
@@ -71,7 +71,7 @@ Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selecti
 
 ### Workshop Paper
 
-Hongyi Li, **Junxiang Wang**, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021).
+Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021). [paper]()
 
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
