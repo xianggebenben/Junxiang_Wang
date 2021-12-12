@@ -10,6 +10,8 @@ Email: jwan936@emory.edu
 
 ## News
 
+2021/12: I serve as a PC member for the IJCAI 2022.
+
 2021/10: I serve as an independent reviewer for the journal Applied Artifical Intelligence.
 
 2021/10: I serve as an independent reviewer for the journal Numerical Algorithms (SJR Q1).
