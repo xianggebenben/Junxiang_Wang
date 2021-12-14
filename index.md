@@ -105,6 +105,9 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 
 ## Invited Talk
+
+2022 INFORMS Optimization Society Conference. Greenville, SC. Invited oral presentation.
+
 Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. MOPTA 2021. Lehigh University. PA. August 2021. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/MOPTA%202021/MOPTA_talk.pdf)
 
 
