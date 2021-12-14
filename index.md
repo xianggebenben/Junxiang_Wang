@@ -9,6 +9,7 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
 
 2021/12: The source code of the [dlADMM](https://github.com/xianggebenben/dlADMM) algorithm for the GCN model has been released. Welcome to use and provide feedback.
 
