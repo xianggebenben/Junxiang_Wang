@@ -9,9 +9,11 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2021/12: The code of the [MILR](https://github.com/xianggebenben/MILR) for vaccinee adverse event detection has been released. Feel free to contact me if you have any questions.
+
 2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
 
-2021/12: The source code of the [dlADMM](https://github.com/xianggebenben/dlADMM) algorithm for the GCN model has been released. Welcome to use and provide feedback.
+2021/12: The source code of the [dlADMM](https://github.com/xianggebenben/dlADMM) algorithm for the GCN model has been released. Feel free to contact me if you have any questions.
 
 2021/12: I serve as a PC member for the IJCAI 2022.
 
@@ -54,7 +56,7 @@ Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogen
 **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Results in Control and Optimization, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection by integrating Twitter data and VAERS. Journal of Biomedical Semantics, (impact factor: 1.845), 2018.  
-[paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y)
+[paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y) [code](https://github.com/xianggebenben/MILR)
 
 Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.  
 [paper](https://ieeexplore.ieee.org/document/8011465)
