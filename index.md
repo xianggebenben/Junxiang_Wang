@@ -9,7 +9,6 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
-2021/12: The source code of the [MILR](https://github.com/xianggebenben/MILR) for vaccinee adverse event detection has been released. Feel free to contact me if you have any questions.
 
 2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
 
@@ -87,6 +86,9 @@ Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community
 
 
 ### Priprint Paper
+
+**Junxiang Wang**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, and Liang Zhao.  Do Multi-Lingual Pre-trained Language Models Reveal Consistent Token Attributions in Different Languages? Preprint
+
 Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
 
 Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks. Preprint.
