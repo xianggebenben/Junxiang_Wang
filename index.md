@@ -55,7 +55,7 @@ Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogen
 **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Results in Control and Optimization, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye, and Yuji Zhang. Adverse event detection by integrating Twitter data and VAERS. Journal of Biomedical Semantics, (impact factor: 1.845), 2018.  
-[paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y) [code](https://github.com/xianggebenben/MILR)
+[paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0184-y)
 
 Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.  
 [paper](https://ieeexplore.ieee.org/document/8011465)
