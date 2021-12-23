@@ -87,6 +87,9 @@ Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community
 
 ### Priprint Paper
 
+**Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training. Preprint
+
+
 **Junxiang Wang**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, and Liang Zhao.  Do Multi-Lingual Pre-trained Language Models Reveal Consistent Token Attributions in Different Languages? Preprint
 
 Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
