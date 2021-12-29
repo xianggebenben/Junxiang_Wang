@@ -87,28 +87,28 @@ Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community
 
 ### Priprint Paper
 
-**Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training. Preprint
+**Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
 
-**Junxiang Wang**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, and Liang Zhao.  Do Multi-Lingual Pre-trained Language Models Reveal Consistent Token Attributions in Different Languages? Preprint
+**Junxiang Wang**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, and Liang Zhao.  Do Multi-Lingual Pre-trained Language Models Reveal Consistent Token Attributions in Different Languages? [paper](https://arxiv.org/pdf/2112.12356.pdf)
 
-Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization. Preprint
+Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization.
 
-Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks. Preprint.
+Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks.
 
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. A short version has been accepted in ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
 [paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
 
-**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Model for Source Localization. Preprint.
+**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Model for Source Localization.
 
 **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
 
-**Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems. Preprint.
+**Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems.
 [paper](https://arxiv.org/abs/1902.10882)
 
-Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. Preprint.
+Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. [paper](https://arxiv.org/pdf/2102.11191.pdf)
 
-**Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks. Preprint.
+**Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
 
 ## Invited Talk
