@@ -9,6 +9,7 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/1: One paper is accepted by WWW 2022.
 
 2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
 
@@ -28,11 +29,13 @@ Email: jwan936@emory.edu
 
 ## Biography
 
-Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised by Dr.[Liang Zhao](http://mason.gmu.edu/~lzhao9/). He has broad interest in different research areas such as social media mining, inverse problems and nonconvex optimization. Specifically, he is passionate about applications of Alterating Direction Method of Multipliers in deep learning models. He has published various research papers in top-tier conferences such as KDD, ICDM and WWW . He has been selected as an independent reviewer in many top-tiers venues in AI and operation research fields such as IJCAI and European Journal of Operational Research (EJOR).  He  has been inivited to present his work in many optimization conferences. Before joining Emory, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
+Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised by Dr. [Liang Zhao](http://mason.gmu.edu/~lzhao9/). He has broad interest in different research areas such as social media mining, inverse problems and nonconvex optimization. Specifically, he is passionate about applications of Alterating Direction Method of Multipliers in deep learning models. He has published various research papers in top-tier conferences such as KDD, ICDM and WWW . He has been selected as an independent reviewer in many top-tiers venues in AI and operation research fields such as IJCAI and European Journal of Operational Research (EJOR).  He  has been inivited to present his work in many optimization conferences. Before joining Emory, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
 
 ## Publications
 
 ### Conference Paper
+**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Model for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022.
+
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
 
 **Junxiang Wang**, Fuxun Yu, Xiang Chen, and Liang Zhao. ADMM for Efficient Deep Learning with Global Convergence. in Proceedings of the 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019), research track (acceptance rate: 14.2%), Alaska, USA, Aug 2019.  
@@ -45,7 +48,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 **Junxiang Wang**, Yuyang Gao, Andreas Zufle, Jingyuan Yang, and Liang Zhao. Incomplete Label Uncertainty Estimation for Petition Victory Prediction with Dynamic Features. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2018), regular paper (acceptance rate: 8.9%), Singapore, Dec 2018.  
 [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2018/MLUE.pdf) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/supplementary_material/ICDM2018/MLUE.zip) [data](http://mason.gmu.edu/~lzhao9/materials/data/petition/index.html)  [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2018/Incomplete%20Label%20Uncertainty%20Estimation%20for%20Petition%20Victory%20Prediction%20with%20Dynamic%20Features.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2018/poster.pdf)
 
-**Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection.27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018.  
+**Junxiang Wang** and Liang Zhao. Multi-instance Domain Adaptation for Vaccine Adverse Event Detection. 27th International World Wide Web Conference (WWW 2018), (acceptance rate: 14.8%), Lyon, FR, Apr 2018.  
 [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2018/MIDA.pdf) [code](https://github.com/xianggebenben/Junxiang_Wang/tree/master/supplementary_material/WWW2018) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2018/Multi-instance%20Domain%20Adaptation%20for%20Vaccine%20Adverse%20Event%20Detection_modified.pdf)
 
 Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/AAAI2018/aaai_main.pdf)
@@ -99,7 +102,6 @@ Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. A short version has been accepted in ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
 [paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
 
-**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Model for Source Localization.
 
 **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
 
