@@ -90,6 +90,8 @@ Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community
 
 ### Priprint Paper
 
+**Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems.  [paper](https://arxiv.org/abs/1902.10882)
+
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
 
@@ -105,8 +107,7 @@ Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan
 
 **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
 
-**Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems.
-[paper](https://arxiv.org/abs/1902.10882)
+
 
 Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. [paper](https://arxiv.org/pdf/2102.11191.pdf)
 
