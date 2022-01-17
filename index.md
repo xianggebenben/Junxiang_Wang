@@ -11,6 +11,8 @@ Email: jwan936@emory.edu
 ## News
 2022/1: One paper is accepted by WWW 2022.
 
+2022/1: One paper is accepted by PAKDD 2022.
+
 2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
 
 2021/12: The source code of the [dlADMM](https://github.com/xianggebenben/dlADMM) algorithm for the GCN model has been released. Feel free to contact me if you have any questions.
@@ -35,6 +37,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 
 ### Conference Paper
 **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Model for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022.
+
+**Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems. 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022), (acceptance rate: 19.3%), Chengdu, CN, May 2022.
 
 **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
 
