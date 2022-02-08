@@ -9,11 +9,13 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/2: I am invited to give a talk at the [EURO 2022](https://euro2022espoo.com/).
+
 2022/1: One paper is accepted by WWW 2022.
 
 2022/1: One paper is accepted by PAKDD 2022.
 
-2021/12: I am invited to give a talk at the [2022 INFORMS Optimization Society Conference](https://connect.informs.org/optimizationsociety/conferences).
+2021/12: I am invited to give a talk at the [INFORMS Optimization Society Conference 2022](https://connect.informs.org/optimizationsociety/conferences).
 
 2021/12: The source code of the [dlADMM](https://github.com/xianggebenben/dlADMM) algorithm for the GCN model has been released. Feel free to contact me if you have any questions.
 
@@ -114,9 +116,11 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 **Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
 
-## Invited Talk
+## Invited Talks
 
-2022 INFORMS Optimization Society Conference. Greenville, SC. Invited oral presentation.
+EURO 2022 ESPOO, FINLAND. Invited oral presentation.
+
+INFORMS Optimization Society Conference 2022. Greenville, SC. Invited oral presentation.
 
 Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. MOPTA 2021. Lehigh University. PA. August 2021. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/MOPTA%202021/MOPTA_talk.pdf)
 
