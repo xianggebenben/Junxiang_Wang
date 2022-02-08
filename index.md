@@ -118,7 +118,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 ## Invited Talks
 
-EURO 2022 ESPOO, FINLAND. Invited oral presentation.
+EURO 2022 espoo, Finland. Invited oral presentation.
 
 INFORMS Optimization Society Conference 2022. Greenville, SC. Invited oral presentation.
 
