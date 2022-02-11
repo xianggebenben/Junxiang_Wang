@@ -9,6 +9,9 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+
+2022/2: One paper is accepted by Neurocomputing. I have published ten first-author papers during my Ph.D.
+
 2022/2: I am invited to give a talk at the [EURO 2022](https://euro2022espoo.com/).
 
 2022/1: One paper is accepted by WWW 2022.
@@ -60,6 +63,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 (1) [AAAI 2018]. Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/AAAI2018/aaai_main.pdf)
 
 ### Journal Paper
+(9) [Neurocomputing]. **Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. Neurocomputing, (impact factor: 5.719), 2022.
 
 (8) [RICO]. **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Results in Control and Optimization, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
 
@@ -86,9 +90,12 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 
 ### Workshop Paper
 
-(3) [OPT 2021] Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021). [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202021/ADMM_GNN_training.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202021/poster_opt21.pdf)
+(4) [OPT 2021]. Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks. NeurIPS 2021 Workshop on Optimization for Machine Learning (OPT 2021). [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202021/ADMM_GNN_training.pdf) [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202021/poster_opt21.pdf)
 
-(2) [BEY 2020]. **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
+(3) [ICML WS 2021]. **Junxiang Wang**, Hongyi Li, Yongchao Wang and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
+[paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
+
+(2) [ICML WS 2020]. **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training. ICML 2020 Workshop on Beyond First-Order Methods in ML systems. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pdf) [code](https://github.com/xianggebenben/TSSM) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.mp4) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2020/TSSM.pptx)
 
 (1) [OPT 2019]. **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019), co-located with NeurIPS 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/multi_block_ADMM_on_isotonic_regression.pdf)   [code](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/code.rar)  [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/poster.pptx)
 
@@ -103,8 +110,7 @@ Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Au
 
 Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks.
 
-**Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. A short version has been accepted in ICML 2021 Workshop on Beyond First-Order Methods in ML systems.
-[paper](https://arxiv.org/abs/1811.04187) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/DLAM-slides.pptx) [video](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICMLOPT2021/video.mp4)
+ 
 
 
 **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
