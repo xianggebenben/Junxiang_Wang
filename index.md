@@ -100,6 +100,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 (1) [OPT 2019]. **Junxiang Wang** and Liang Zhao. The Application of Multi-block ADMM on Isotonic Regression Problems.  11th Workshop on Optimization for Machine Learning (OPT 2019), co-located with NeurIPS 2019. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/multi_block_ADMM_on_isotonic_regression.pdf)   [code](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/code.rar)  [poster](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/OPT%202019/poster.pptx)
 
 ### Priprint Paper
+<details>
+  <summary>Click to expand!</summary>
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
@@ -112,7 +114,6 @@ Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan
 
  
 
-
 **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
 
 
@@ -121,7 +122,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 **Junxiang Wang**, Liang Zhao, Yanfang Ye and Houman Homayoun. Interpretability Evaluation Framework for Deep Neural Networks.
 
-
+</details>
 ## Invited Talks
 
 EURO 2022 espoo, Finland. Invited oral presentation.
