@@ -102,6 +102,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ### Priprint Paper
 <details>
   <summary>Click to expand!</summary>
+ 
+Chen Ling, Junji Jiang, **Junxiang Wang**, Renhao Xue and Zhao Liang. DeepIM: Deep Graph Representation Learning and Optimization for Influence Maximization.
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
