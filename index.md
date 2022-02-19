@@ -10,6 +10,8 @@ Email: jwan936@emory.edu
 
 ## News
 
+2022/2: I serve as a PC member for the IJCNN 2022 and an independent reviewer for the TKDE journal.
+
 2022/2: One paper is accepted by Neurocomputing. I have published ten first-author papers during my Ph.D.
 
 2022/2: I am invited to give a talk at the [EURO 2022](https://euro2022espoo.com/).
