@@ -104,6 +104,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ### Priprint Paper
 <details>
   <summary>Click to expand!</summary>
+
+Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks.
  
 Chen Ling, Junji Jiang, **Junxiang Wang**, Renhao Xue and Zhao Liang. DeepIM: Deep Graph Representation Learning and Optimization for Influence Maximization.
 
