@@ -44,7 +44,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ## Publications
 
 ### Conference Paper
-(8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD)
+(8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD_slides.pdf)
 
 (7) [PAKDD 2022]. **Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems. 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022), (acceptance rate: 19.3%), Chengdu, China, May 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/PAKDD2022/multi_convex_ADMM.pdf) [code](https://github.com/xianggebenben/miADMM)
 
