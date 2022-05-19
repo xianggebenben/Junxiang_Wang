@@ -9,6 +9,8 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/5: One paper is accepted by KDD 2022.
+
 2022/5: I serve as a PC member for the NeurIPS 2022 and ACML 2022.
 
 2022/4: I serve as a PC member for the ECML-PKDD 2022 and an independent reviwer for the Expert Systems With Applications journal.
@@ -46,6 +48,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ## Publications
 
 ### Conference Paper
+(9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022.
+
 (8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD_slides.pdf)
 
 (7) [PAKDD 2022]. **Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems. 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022), (acceptance rate: 19.3%), Chengdu, China, May 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/PAKDD2022/multi_convex_ADMM.pdf) [code](https://github.com/xianggebenben/miADMM)
