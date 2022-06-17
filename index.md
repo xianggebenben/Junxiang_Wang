@@ -100,8 +100,11 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ### Priprint Paper
 <details>
   <summary>Click to expand!</summary>
+
+**Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
+  
  
-**Junxiang Wang**, Junji Jiang, and Liang Zhao. AnInvertible Bi-Lipschitz Surrogate Model for Black-box Graph Inverse Problems.
+**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Bi-Lipschitz Surrogate Model for Black-box Graph Inverse Problems.
 
 
 Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community-based Layerwise Distributed Training of Graph Convolutional Networks.
