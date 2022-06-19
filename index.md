@@ -52,7 +52,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 
 (8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD_slides.pdf)
 
-(7) [PAKDD 2022]. **Junxiang Wang** and Liang Zhao. Convergence and Applications of Alternating Direction Method of Multipliers on the Multi-convex Problems. 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022), (acceptance rate: 19.3%), Chengdu, China, May 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/PAKDD2022/multi_convex_ADMM.pdf) [code](https://github.com/xianggebenben/miADMM)
+(7) [PAKDD 2022]. **Junxiang Wang** and Liang Zhao. Convergence and Applications of ADMM on the Multi-convex Problems. 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2022), (acceptance rate: 19.3%), Chengdu, China, May 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/PAKDD2022/multi_convex_ADMM.pdf) [code](https://github.com/xianggebenben/miADMM)
 [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/PAKDD2022/PAKDD_2022.pdf)
 
 (6) [ICDM 2020]. **Junxiang Wang**, Zheng Chai, Yue Cheng, Liang Zhao. Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2020), regular paper (acceptance rate: 9.8%), Sorrento, Italy, Nov 2020. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM.pdf) [code](https://github.com/xianggebenben/pdADMM) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2020/pdADMM%20presentation.pdf)
@@ -137,7 +137,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 EURO 2022 Espoo, Finland. Invited oral presentation.
 
-INFORMS Optimization Society Conference (IOS) 2022. Greenville, SC. March 2022. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/IOS2022/IOS_2022_talk.pdf)
+Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. INFORMS Optimization Society Conference (IOS) 2022. Greenville, SC. March 2022. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/IOS2022/IOS_2022_talk.pdf)
 
 Power of Alternating Direction Method of Multipliers(ADMM) in deep learning. Modeling and Optimization: Theory and Applications (MOPTA) 2021. Lehigh University. PA. August 2021. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/MOPTA202021/MOPTA_talk.pdf)
 
