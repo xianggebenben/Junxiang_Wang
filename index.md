@@ -45,7 +45,7 @@ Email: jwan936@emory.edu
 
 ## Biography
 
-Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised by Dr. [Liang Zhao](http://mason.gmu.edu/~lzhao9/). He has broad interest in different research areas such as social media mining, inverse problems and nonconvex optimization. Specifically, he is passionate about applications of Alterating Direction Method of Multipliers in deep learning models. He has published various research papers in top-tier conferences such as KDD, ICDM and WWW . He has been selected as an independent reviewer in many top-tiers venues in AI and operation research fields such as IJCAI and European Journal of Operational Research (EJOR).  He  has been inivited to present his work in many optimization conferences. Before joining Emory, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
+Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised by Dr. [Liang Zhao](http://mason.gmu.edu/~lzhao9/). He has broad interest in different research areas such as social media mining, inverse problems and nonconvex optimization. Specifically, he is passionate about applications of Alterating Direction Method of Multipliers in deep learning models. He has published various research papers in top-tier conferences such as KDD, ICDM and WWW. He has been selected as an independent reviewer in many top-tiers venues in AI and operation research fields such as IJCAI and European Journal of Operational Research (EJOR).  He  has been inivited to present his work in many optimization conferences. Before joining Emory, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
 
 ## Publications
 
@@ -137,7 +137,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 ## Invited Talks
 
-EURO 2022 Espoo, Finland. Invited oral presentation.
+EURO 2022 Espoo, Finland. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/EURO2022/EURO_2022_Talk.pdf)
 
 Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. INFORMS Optimization Society Conference (IOS) 2022. Greenville, SC. March 2022. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/IOS2022/IOS_2022_talk.pdf)
 
