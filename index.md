@@ -102,6 +102,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ### Priprint Paper
 <details>
   <summary>Click to expand!</summary>
+  
+Chen Ling, Junji Jiang, Tanmoy Chowdhury, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning.
 
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
   
