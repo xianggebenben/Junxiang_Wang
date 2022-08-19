@@ -15,7 +15,7 @@ Email: jwan936@emory.edu
 
 2022/5: I serve as a PC member for the NeurIPS 2022 and ACML 2022.
 
-2022/4: I serve as a PC member for the ECML-PKDD 2022 and an independent reviwer for the Expert Systems With Applications journal.
+2022/4: I serve as a PC member for the ECML-PKDD 2022 and an independent reviewer for the Expert Systems With Applications journal.
 
 2022/2: I serve as a PC member for the IJCNN 2022 and an independent reviewer for the TKDE journal.
 
