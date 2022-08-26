@@ -141,7 +141,7 @@ Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina
 
 ## Invited Talks
 
-EURO 2022 Espoo, Finland. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/EURO2022/EURO_2022_Talk.pdf)
+Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. EURO 2022 Espoo, Finland. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/EURO2022/EURO_2022_Talk.pdf)
 
 Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. INFORMS Optimization Society Conference (IOS) 2022. Greenville, SC. March 2022. Invited oral presentation. [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/IOS2022/IOS_2022_talk.pdf)
 
