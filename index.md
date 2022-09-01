@@ -9,6 +9,8 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/8: One paper is accepted by ICDM 2022.
+
 2022/8: I passed the dissertation prospectus and am available at the job market. If you are interested in my work, feel free to contact me.
 
 2022/6: I serve as a PC member for the EMNLP 2022 and an independent reviewer for the Knowledge-based System journal.
@@ -52,6 +54,8 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ## Publications
 
 ### Conference Paper
+(10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022.
+
 (9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022.
 
 (8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD_slides.pdf)
@@ -105,7 +109,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 <details>
   <summary>Click to expand!</summary>
   
-Chen Ling, Junji Jiang, Tanmoy Chowdhury, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning.
+
 
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
   
