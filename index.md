@@ -56,7 +56,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ### Conference Paper
 (10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022.
 
-(9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. SL-VAE: Variational Autoencoder for Source Localization.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022.
+(9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2022/SLVAE.pdf)
 
 (8) [WWW 2022]. **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Graph Diffusion Neural Network for Source Localization.  31th International World Wide Web Conference (WWW 2022), (acceptance rate: 17.7%), Lyon, FR, Apr 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD.pdf) [code](https://github.com/xianggebenben/IVGD) [slides](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/WWW2022/IVGD_slides.pdf)
 
