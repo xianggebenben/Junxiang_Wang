@@ -52,7 +52,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 ## Publications
 
 ### Conference Paper
-(10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022.
+(10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2022/paper.pdf)
 
 (9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2022/SLVAE.pdf)
 
@@ -83,15 +83,15 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 
 (6) [Proc. IEEE]. Liang Zhao, **Junxiang Wang**, Feng Chen, Chang-Tien Lu and Naren Ramakrishnan. “Spatial Event Forecasting in Social Media with Geographically Hierarchical Regularization”. Proceedings of the IEEE (impact factor: 9.237), vol. 105, no. 10, pp. 1953-1970, Oct. 2017.  [paper](https://ieeexplore.ieee.org/document/8011465)
 
-(5) [Lett.Drug.Des.Discov]. **Junxiang Wang**, Weiming Yu, Zhibin Chen, Hengda Li, Zhenran Jiang. Predicting Drug-Target Interactions of Nuclear Receptors Based on Molecular Descriptors Information. Letters in Drug Design & Discovery 10 (10), 989-994, 2013.  [paper](https://www.ingentaconnect.com/content/ben/lddd/2013/00000010/00000010/art00012)
+(5) [Lett.Drug.Des.Discov]. **Junxiang Wang**, Weiming Yu, Zhibin Chen, Hengda Li, Zhenran Jiang. Predicting Drug-Target Interactions of Nuclear Receptors Based on Molecular Descriptors Information. Letters in Drug Design & Discovery 10 (10), 989-994, (impact factor: 1.099), 2013.  [paper](https://www.ingentaconnect.com/content/ben/lddd/2013/00000010/00000010/art00012)
 
-(4) [Pharmacogenomics]. Weiming Yu, Yan Yan, Qing Liu, **Junxiang Wang** and Zhenran Jiang. Predicting drug–target interaction networks of human diseases based on multiple feature information. Pharmacogenomics 14 (14), 1701-1707, 20, 2013.  [paper](https://www.futuremedicine.com/doi/abs/10.2217/pgs.13.162)
+(4) [Pharmacogenomics]. Weiming Yu, Yan Yan, Qing Liu, **Junxiang Wang** and Zhenran Jiang. Predicting drug–target interaction networks of human diseases based on multiple feature information. Pharmacogenomics 14 (14), 1701-1707, 20, (impact factor: 2.638), 2013.  [paper](https://www.futuremedicine.com/doi/abs/10.2217/pgs.13.162)
 
-(3) [Curr. Bioinform]. Zhenran Jiang, Ran Tao, Lei Du, Weiming Yu and **Junxiang Wang**. Using Network-Based Approaches to Predict Ligands of Orphan Nuclear Receptors. Current Bioinformatics 7 (4), 411-414, 2012.  [paper](https://www.ingentaconnect.com/content/ben/cbio/2012/00000007/00000004/art00008)
+(3) [Curr. Bioinform]. Zhenran Jiang, Ran Tao, Lei Du, Weiming Yu and **Junxiang Wang**. Using Network-Based Approaches to Predict Ligands of Orphan Nuclear Receptors. Current Bioinformatics 7 (4), 411-414, (impact factor: 4.850), 2012.  [paper](https://www.ingentaconnect.com/content/ben/cbio/2012/00000007/00000004/art00008)
 
-(2) [Comb. Chem. High Throughput Screen]. Ran Tao, Zhenran Jiang, Weiming Yu and **Junxiang Wang**. Predicting Coupling Specificity of GPCRs Based on the Optimization of the Coupling Regions. Combinatorial chemistry & high throughput screening 15 (9), 770-774, 2012.  [paper](https://www.ingentaconnect.com/content/ben/cchts/2012/00000015/00000009/art00009)
+(2) [Comb. Chem. High Throughput Screen]. Ran Tao, Zhenran Jiang, Weiming Yu and **Junxiang Wang**. Predicting Coupling Specificity of GPCRs Based on the Optimization of the Coupling Regions. Combinatorial chemistry & high throughput screening 15 (9), 770-774, (impact factor: 1.714), 2012.  [paper](https://www.ingentaconnect.com/content/ben/cchts/2012/00000015/00000009/art00009)
 
-(1) [Curr. Med. Chem]. Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selection technique for drug-target interaction networks prediction. Current medicinal chemistry 18 (36), 5687-5693, 2011.  [paper](https://www.ingentaconnect.com/content/ben/cmc/2011/00000018/00000036/art00014)
+(1) [Curr. Med. Chem]. Weiming Yu, Zhengyan Jiang, **Junxiang Wang** and Ran Tao. Using feature selection technique for drug-target interaction networks prediction. Current medicinal chemistry 18 (36), 5687-5693, (impact factor: 4.184), 2011.  [paper](https://www.ingentaconnect.com/content/ben/cmc/2011/00000018/00000036/art00014)
 
 ### Workshop Paper
 
