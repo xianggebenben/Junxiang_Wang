@@ -107,6 +107,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 <details>
   <summary>Click to expand!</summary>
   
+Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Topological Structure Curriculum Learning for Graph Neural Networks.  
 
 
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
