@@ -9,7 +9,7 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
-2022/10: I serve as a PC member for the OPT worksop in NeurIPS 2022.
+2022/10: I serve as a PC member for OPT@NeurIPS 2022.
 
 2022/8: One paper is accepted by ICDM 2022.
 
