@@ -13,6 +13,8 @@ Email: jwan936@emory.edu
 
 2022/8: One paper is accepted by ICDM 2022.
 
+2022/8: I passed the dissertation prospectus.
+
 2022/6: I serve as a PC member for the EMNLP 2022 and an independent reviewer for the Knowledge-based System journal.
 
 2022/5: One paper is accepted by KDD 2022.
