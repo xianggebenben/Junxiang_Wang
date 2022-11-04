@@ -9,6 +9,8 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/11: I serves an independent reviewer for the IEEE Transcations on Big Data and Springer Optimization Letters.
+
 2022/10: I will join NEC Labs at Princeton as a researcher.
 
 2022/10: I serve as a PC member for OPT@NeurIPS 2022.
