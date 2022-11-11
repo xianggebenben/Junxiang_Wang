@@ -9,7 +9,7 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
-2022/11：One paper is accepted by TNNLS.
+2022/11: One paper is accepted by TNNLS.
 
 2022/11: I serve as an independent reviewer for the IEEE Transcations on Big Data and Springer Optimization Letters.
 
