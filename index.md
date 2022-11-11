@@ -9,6 +9,8 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/11：One paper is accepted by TNNLS.
+
 2022/11: I serve as an independent reviewer for the IEEE Transcations on Big Data and Springer Optimization Letters.
 
 2022/10: I will join NEC Labs at Princeton as a researcher.
@@ -83,6 +85,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 (1) [AAAI 2018]. Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/AAAI2018/aaai_main.pdf)
 
 ### Journal Paper
+(10) [TNNLS]. **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. IEEE Transactions on Neural Networks and Learning Systems, (impact factor: 14.255) [paper](https://arxiv.org/pdf/2105.09837.pdf)
 (9) [Neurocomputing]. **Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. Neurocomputing, (impact factor: 5.719), 2022. [paper](https://arxiv.org/pdf/1811.04187.pdf) [code](https://github.com/xianggebenben/mDLAM)
 
 (8) [RICO]. **Junxiang Wang** and Liang Zhao. Nonconvex Generalization of Alternating Direction Method of Multipliers for Nonlinear Equality Constrained Problems.  Results in Control and Optimization, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666720721000035?via%3Dihub) [code](https://github.com/xianggebenben/neADMM)
@@ -140,7 +143,7 @@ Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan
 
  
 
-**Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. Preprint. [paper](https://arxiv.org/pdf/2105.09837.pdf)
+
 
 
 
