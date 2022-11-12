@@ -85,7 +85,7 @@ Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised 
 (1) [AAAI 2018]. Liang Zhao, **Junxiang Wang**, and Xiaojie Guo. Distant-supervision of heterogeneous multitask learning for social event forecasting with multilingual indicators. Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), Oral presentation (acceptance rate: 11.0%), pp. 4498-4505, New Orleans, US, Feb 2018.  [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/AAAI2018/aaai_main.pdf)
 
 ### Journal Paper
-(10) [TNNLS]. **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. IEEE Transactions on Neural Networks and Learning Systems, (impact factor: 14.255)，2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/TNNLS2022/GA_MLP.pdf)
+(10) [TNNLS]. **Junxiang Wang**, Hongyi Li (first-coauthor), Zheng Chai, Yongchao Wang, Yue Cheng, and Liang Zhao. Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework. IEEE Transactions on Neural Networks and Learning Systems, (impact factor: 14.255)，2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/TNNLS2022/GA_MLP.pdf) [code](https://github.com/xianggebenben/pdADMM-G)
 
 (9) [Neurocomputing]. **Junxiang Wang**, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. Neurocomputing, (impact factor: 5.719), 2022. [paper](https://arxiv.org/pdf/1811.04187.pdf) [code](https://github.com/xianggebenben/mDLAM)
 
