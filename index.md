@@ -1,14 +1,16 @@
-Research Assistant (2017-current)
+Researcher
 
-Department of Computer Science
+NEC Laboratory America, 
 
-Emory University
+Princeton, NJ, United States.
 
 Email: jwan936@emory.edu
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/11: I passed the dissertation defense. Offically Dr. Wang!
+
 2022/11: One paper is accepted by TNNLS.
 
 2022/11: I serve as an independent reviewer for the IEEE Transcations on Big Data and Springer Optimization Letters.
@@ -57,7 +59,7 @@ Email: jwan936@emory.edu
 
 ## Biography
 
-Junxiang Wang is a highly motived Ph.D. student at Emory University, supervised by Dr. [Liang Zhao](http://mason.gmu.edu/~lzhao9/). He has broad interest in different research areas such as social media mining, inverse problems and nonconvex optimization. Specifically, he is passionate about applications of Alterating Direction Method of Multipliers in deep learning models. He has published various research papers in top-tier conferences such as KDD, ICDM and WWW. He has been selected as an independent reviewer in many top-tiers venues in AI and operation research fields such as IJCAI and European Journal of Operational Research (EJOR).  He  has been inivited to present his work in many optimization conferences. Before joining Emory, he received his master degree and bachelor degree from George Mason University in 2020 and East China Normal University in 2012, respectively.
+Junxiang Wang is a researcher at NEC Laboratory America. He received the Ph.D. degree from the Department of Computer Science at Emory University in 2022. Before that, he received his Master’s degree and Bachelor’s degree from George Mason University in 2020 and East China Normal University in 2012, respectively. His research interests include data mining in social media, inverse problems on graphs, and nonconvex optimization in deep learning. He has published various research papers in top-tier conferences and journals such as KDD, ICDM, WWW, AAAI, Proceedings of the IEEE, and TNNLS. He has been invited to present his works in several optimization conferences.
 
 ## Publications
 
