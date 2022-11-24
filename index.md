@@ -1,6 +1,6 @@
 Researcher
 
-NEC Laboratory America, 
+NEC Laboratories America, 
 
 Princeton, NJ, United States.
 
