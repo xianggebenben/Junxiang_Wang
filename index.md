@@ -9,6 +9,8 @@ Email: jwan936@emory.edu
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=UBFTZbAAAAAJ&view_op=list_works&sortby=pubdate)    [CV](https://github.com/xianggebenben/Junxiang_Wang/blob/master/resume.pdf)
 
 ## News
+2022/12: One paper is accepted by SDM 2023.
+
 2022/11: I passed the dissertation defense. Officially Dr. Wang!
 
 2022/11: One paper is accepted by TNNLS.
@@ -64,6 +66,8 @@ Junxiang Wang is a researcher at NEC Laboratories America. He received the Ph.D.
 ## Publications
 
 ### Conference Paper
+(11) [SDM 2023]. Guangji Bai, Johnny Torres, **Junxiang Wang**, Zhao Liang, Cristina Abad, and Carmen Vaca. Sign-Regularized Multi-Task Learning. in Proceedings of SIAM International Conference on Data Mining (SDM 2023), (acceptance rate: 27.4%), Minneapolis, Minn, USA, Apr 2023.
+
 (10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2022/paper.pdf)
 
 (9) [KDD 2022]. Chen Ling, Junji Jiang, **Junxiang Wang** and Liang Zhao. Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems.  in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), research track (acceptance rate: 15.0%), Washington D.C, USA, Aug 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/KDD2022/SLVAE.pdf)
