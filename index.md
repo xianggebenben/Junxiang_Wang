@@ -66,7 +66,7 @@ Junxiang Wang is a researcher at NEC Laboratories America. He received the Ph.D.
 ## Publications
 
 ### Conference Paper
-(11) [SDM 2023]. Guangji Bai, Johnny Torres, **Junxiang Wang**, Zhao Liang, Cristina Abad, and Carmen Vaca. Sign-Regularized Multi-Task Learning. in Proceedings of SIAM International Conference on Data Mining (SDM 2023), (acceptance rate: 27.4%), Minneapolis, Minn, USA, Apr 2023.
+(11) [SDM 2023]. Guangji Bai, Johnny Torres, **Junxiang Wang**, Zhao Liang, Cristina Abad, and Carmen Vaca. Sign-Regularized Multi-Task Learning. in Proceedings of SIAM International Conference on Data Mining (SDM 2023), (acceptance rate: 27.4%), Minneapolis, Minn, USA, Apr 2023. [paper](https://arxiv.org/pdf/2102.11191.pdf)
 
 (10) [ICDM 2022]. Chen Ling, Tanmoy Chowdhury, Junji Jiang, **Junxiang Wang**, Xuchao Zhang, Haifeng Chen, and Liang Zhao. DeepAR: Deep Graph Representation Learning and Optimization for Analogical Reasoning. in Proceedings of the IEEE International Conference on Data Mining (ICDM 2022), short paper (acceptance rate: 20%), Orlando, FL, USA, Nov 2022. [paper](https://github.com/xianggebenben/Junxiang_Wang/blob/master/supplementary_material/ICDM2022/paper.pdf)
 
@@ -138,6 +138,7 @@ Hongyi Li, **Junxiang Wang**, Yongchao Wang, Yue Cheng and Liang Zhao. Community
 
  
 Chen Ling, Junji Jiang, **Junxiang Wang**, Renhao Xue and Zhao Liang. DeepIM: Deep Graph Representation Learning and Optimization for Influence Maximization.
+  
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
@@ -148,13 +149,7 @@ Chen Ling, Junji Jiang, **Junxiang Wang**, Renhao Xue and Zhao Liang. DeepIM: De
   
 Yuyang Gao,**Junxiang Wang**, Wei Wang, Xin Deng, Hamed Zamani, Xiaohan Yan, Yan Guo, Ahmed Awadallah, Yanfang Ye, and Liang Zhao. Asynchronous Semi-supervised Representation Learning for Email Heterogeneous Networks.
 
- 
 
-
-
-
-
-Johnny Torres, Guangji Bai, **Junxiang Wang**, Liang Zhao, Carmen Vaca, Cristina Abad. Sign-regularized Multi-task Learning. [paper](https://arxiv.org/pdf/2102.11191.pdf)
 
 </details>
 
