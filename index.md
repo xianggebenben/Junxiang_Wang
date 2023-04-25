@@ -88,16 +88,12 @@ Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Topological Structure Curriculum
   
  
 **Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Bi-Lipschitz Surrogate Model for Black-box Graph Inverse Problems.
-
-
- 
-Chen Ling, Junji Jiang, **Junxiang Wang**, Renhao Xue and Zhao Liang. DeepIM: Deep Graph Representation Learning and Optimization for Influence Maximization.
   
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
 
 
-**Junxiang Wang**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, and Liang Zhao.  Do Multi-Lingual Pre-trained Language Models Reveal Consistent Token Attributions in Different Languages? [paper](https://arxiv.org/pdf/2112.12356.pdf)
+
 
 </details>
 
