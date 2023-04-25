@@ -16,7 +16,7 @@ Junxiang Wang is a researcher at NEC Laboratories America. He received the Ph.D.
 
 ### Conference Paper
 
-(15) [ICML 2023]. Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meikang Qiu, and Liang Zhao.  Deep Graph Representation Learning and Optimization for Influence Maximization. In proceedings of the International Conference on Machine Learning (ICML 2023), (acceptance rate: 27.9%), Honolulu, Hawaii, USA, Apr 2023.
+(15) [ICML 2023]. Chen Ling, Junji Jiang, **Junxiang Wang**, My Thai, Lukas Xue, James Song, Meikang Qiu, and Liang Zhao.  Deep Graph Representation Learning and Optimization for Influence Maximization. In proceedings of the International Conference on Machine Learning (ICML 2023), (acceptance rate: 27.9%), Honolulu, Hawaii, USA, Aug 2023.
 
 (14) [SDM 2023]. Guangji Bai, Johnny Torres, **Junxiang Wang**, Zhao Liang, Cristina Abad, and Carmen Vaca. Sign-Regularized Multi-Task Learning. in Proceedings of SIAM International Conference on Data Mining (SDM 2023), (acceptance rate: 27.4%), Minneapolis, Minn, USA, Apr 2023. [paper](https://arxiv.org/pdf/2102.11191.pdf)
 
