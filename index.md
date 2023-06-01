@@ -81,6 +81,9 @@ The workshop version is in ICML 2021 Workshop on Beyond First-Order Methods in M
 <details>
   <summary>Click to expand!</summary>
   
+Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang** et al. Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.
+
+  
 Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Topological Structure Curriculum Learning for Graph Neural Networks.  
 
 
