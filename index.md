@@ -84,13 +84,13 @@ The workshop version is in ICML 2021 Workshop on Beyond First-Order Methods in M
 Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang** et al. Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.
 
   
-Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Topological Structure Curriculum Learning for Graph Neural Networks.  
+Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Relational Curriculum Learning for Graph Neural Network.  
 
 
 **Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
   
  
-**Junxiang Wang**, Junji Jiang, and Liang Zhao. An Invertible Bi-Lipschitz Surrogate Model for Black-box Graph Inverse Problems.
+**Junxiang Wang**, Junji Jiang, and Liang Zhao. Deep Black-box Graph Inverse Optimization.
   
 
 **Junxiang Wang**, Hongyi Li, Liang Zhao. A Convergent ADMM Framework for Efficient Neural Network Training.
