@@ -80,6 +80,8 @@ The workshop version is in ICML 2021 Workshop on Beyond First-Order Methods in M
 ### Priprint Paper
 <details>
   <summary>Click to expand!</summary>
+ 
+Zheng Zhang, Sirui Li, Jingcheng Zhou, Junxiang Wang, Abhinav Angirekula, Allen Zhang, Liang Zhao Non-Euclidean Spatial Graph Neural Network.
   
 Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang** et al. Beyond One-Model-Fits-All: A Survey of Domain Specialization for Large Language Models.
 
