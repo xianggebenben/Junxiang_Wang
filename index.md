@@ -87,9 +87,6 @@ Chen Ling, Xujiang Zhao, Jiaying Lu, Chengyuan Deng, Can Zheng, **Junxiang Wang*
 
   
 Zheng Zhang, **Junxiang Wang**, and Liang Zhao. Relational Curriculum Learning for Graph Neural Network.  
-
-
-**Junxiang Wang**, Hongyi Li, and Liang Zhao. Proximal ADMM Algorithms for Multi-convex Problems.
   
  
 **Junxiang Wang**, Junji Jiang, and Liang Zhao. Deep Black-box Graph Inverse Optimization.
