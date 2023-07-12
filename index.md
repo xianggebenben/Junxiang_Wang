@@ -1,3 +1,7 @@
+---
+layout: forward
+target: https://xianggebenben.github.io/Junxiang_Wang.github.io/
+---
 Researcher
 
 NEC Laboratories America, 
