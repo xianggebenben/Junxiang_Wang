@@ -77,7 +77,7 @@ The workshop version is in ICML 2021 Workshop on Beyond First-Order Methods in M
 
 
 
-### Priprint Paper
+### Preprint Paper
 <details>
   <summary>Click to expand!</summary>
  
