@@ -1,6 +1,8 @@
 ---
 layout: forward
+targettitle: Taking you to new homepage
 target: https://xianggebenben.github.io/Junxiang_Wang.github.io
+time: 3
 ---
 Researcher
 
