@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: https://xianggebenben.github.io/Junxiang_Wang.github.io/
+target: https://xianggebenben.github.io/Junxiang_Wang.github.io
 ---
 Researcher
 
